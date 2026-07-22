@@ -1,0 +1,18 @@
+:root {
+  /* Fundos */
+  --color-bg-primary: #faf8f5;
+  --color-bg-secondary: #f0ebe3;
+  --color-surface: #ffffff;
+
+  /* Marca */
+  --color-primary: #8a9a7e;
+  --color-primary-dark: #6f7d65;
+  --color-accent: #c9a868;
+
+  /* Texto */
+  --color-text-primary: #3a3a38;
+  --color-text-secondary: #6b6b67;
+
+  /* Ação */
+  --color-whatsapp: #4a7a5c;
+}
