@@ -33,7 +33,12 @@ export function ImagePlaceholder({
   if (src) {
     return (
       <div className={baseClasses}>
-        <img src={src} alt={alt} className="h-full w-full object-cover" loading="lazy" />
+        <img
+          src={src}
+          alt={alt}
+          className="h-full w-full object-cover object-top"
+          loading="lazy"
+        />
       </div>
     );
   }

@@ -3,7 +3,7 @@ import { MessageCircle, Sparkles } from "lucide-react";
 import { Button } from "@/components/ui/Button";
 import { buildWhatsAppLink } from "@/lib/whatsapp";
 import { siteConfig } from "@/data/siteConfig";
-import fotoCapa from "@/assets/images/clinic/clinica-capa.jpeg";
+import fotoCapa from "@/assets/images/clinic/auraz-home.jpg";
 
 
 const { hero, whatsappInstitutional, clinicName } = siteConfig;

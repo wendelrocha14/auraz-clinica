@@ -16,6 +16,14 @@ export interface SiteConfig {
   hero: HeroContent;
 }
 
+export interface Service {
+  id: string;
+  title: string;
+  areaOfExpertise: string;
+  description: string;
+  offerings: string[];
+}
+
 export interface Professional {
   id: string;
   name: string;
